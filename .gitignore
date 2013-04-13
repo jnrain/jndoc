@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Temp files
+*~
+.*.swp
+*.bak
+*.old
+*.tmp
